@@ -37,7 +37,7 @@
 </template>
 
 <script lang="ts">
-import { Vue } from "vue-property-decorator";
+import Vue from "vue";
 import KDemo from "./components/KDemo.vue";
 
 export default Vue.extend({
